@@ -180,7 +180,7 @@ services:
 
 **1.Clone Repository**
 ```bash
-git clone https://github.com/bharathn1508/Multi-container.git
+git clone https://github.com/chirradhanush/docker-container.git
 ```
 
 
